@@ -3,7 +3,7 @@ When I attempted to merge the branches, I was met with this error message:
 
 <img width="590" alt="first_screenshot" src="https://user-images.githubusercontent.com/112425813/189334390-8e49a176-7a0d-4074-9862-9e074a999528.png">
 
-At first, I was perplexed. How could I solve this new problem? I did some digging through the link that you referenced in the project description (https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and I figured that a good first course of action would be to run “git status” for further clarification. This yielded the following explanation:
+At first, I was perplexed. How could I solve this new problem? I did some digging through the [link that you referenced in the project description](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and I figured that a good first course of action would be to run “git status” for further clarification. This yielded the following explanation:
  
 <img width="500" alt="second_screenshot" src="https://user-images.githubusercontent.com/112425813/189334605-98dace8e-4073-44b3-9bbe-d22855b3fd1b.png">
 
